@@ -45,6 +45,7 @@ for repo_dict in repo_dicts:
 #     hover_name参数把悬停给到可视化
 
 title = "Most-Starred Python Projects on GitHub"
+# labels是一个字典哦
 labels = {"x": "Repository", "y": "Stars"}
 
 

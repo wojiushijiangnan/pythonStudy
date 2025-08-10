@@ -3,7 +3,7 @@ from pathlib import Path
 
 path = Path('test.json')
 # lines = [1,2,3]
-# # json.dumps方法接受一个要转换成Json的数据，然后会返回一个字符串
+# # json.dumps接收一个python对象，然后转化为json格式的字符串
 # content = json.dumps(lines)
 # path.write_text(content)
 
